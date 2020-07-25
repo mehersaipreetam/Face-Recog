@@ -6,5 +6,5 @@ This project aims to not only detect and localise a face, but also recognise it 
 
 2. Now run face_recog.py to detect and recognises faces.
 
--Madiraju Meher Sai Preetam
+- Madiraju Meher Sai Preetam
 
